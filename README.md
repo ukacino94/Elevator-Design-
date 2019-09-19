@@ -4,7 +4,11 @@ presentation
 
 Repository: https://github.com/ukacino94/Hw1.75.Ndukwo
 
+![](front_interface.gif)
 
+![](outside_interface.gif)
+
+![](Current_interface.gif)
 
 Issues with The Current Elevator Design
 
@@ -12,7 +16,10 @@ Issues with The Current Elevator Design
 
 •	Unnecessary space in the interface that almost looks like a button but, just a metal spacing.
 
-•	The Interface button that controls the opening and closing of the elevator doors needs to be specific and simple rather it uses symbols or signs that is not easy to understand
+•	The Interface button that controls the opening and closing of the elevator doors needs to be specific and simple rather it uses symbols or signs that is not eassketchstand
+
+
+![](sketch.gif)
 
 
 
