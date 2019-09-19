@@ -1,3 +1,8 @@
+source code : https://github.com/ukacino94/Hw1.75.Ndukwo/blob/master/hw1.75.ndukwo.java
+presentation
+
+
+
 Issues with The Current Elevator Design
 
 •	The numbering system is confusing, so I conducted a research asking residents in the apartment what they didn’t like about the elevator most resident didn’t like the way the elevator interface is numbered
