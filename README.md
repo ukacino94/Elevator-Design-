@@ -6,3 +6,4 @@
 2.	Unnecessary space in the interface that almost looks like a button but, just a metal spacing.   
 
 3.The Interface button that controls the opening and closing of the elevator doors needs to be specific and simple rather it uses symbols  or signs that is not easy to understand 
+
