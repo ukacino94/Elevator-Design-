@@ -36,6 +36,6 @@ Extra features
 
 
 
-!()(hw1.ndukwo.gif)
+![](hw1.Ndukwo.gif)
 
 
