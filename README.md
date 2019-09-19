@@ -1,6 +1,6 @@
 source code : https://github.com/ukacino94/Hw1.75.Ndukwo/blob/master/hw1.75.ndukwo.java
 
-presentation
+presentation:  https://ukacino94.github.io/Hw1.75.Ndukwo/
 
 Repository: https://github.com/ukacino94/Hw1.75.Ndukwo
 
