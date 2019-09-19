@@ -34,3 +34,8 @@ Extra features
 
 •	Implemented an Aid that doesn’t use numbers to navigate the elevator but rather floors are associated with words 
 
+
+
+!()(hw1.ndukwo.gif)
+
+
