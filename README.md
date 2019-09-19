@@ -3,7 +3,8 @@ source code : https://github.com/ukacino94/Hw1.75.Ndukwo/blob/master/hw1.75.nduk
 presentation
 
 Repository: https://github.com/ukacino94/Hw1.75.Ndukwo
-gif Image :
+
+gif Image :https://github.com/ukacino94/Hw1.75.Ndukwo/blob/master/hw1.75.ndukwo.gif
 
 ![](front_interface.gif)
 
